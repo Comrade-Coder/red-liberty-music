@@ -1,6 +1,6 @@
 version="1.10.3"
 tags={
-	"Music"
+	"Sound"
 }
 dependencies={ 
 	"Red Liberty" 
