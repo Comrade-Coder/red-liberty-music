@@ -1,0 +1,37 @@
+music = {
+	name = "which_side_are_you_on"
+	file = "USA/USA_which_side_are_you_on.ogg"
+	volume = 1
+}
+
+music = {
+	name = "solidarity_forever"
+	file = "USA/USA_solidarity_forever.ogg"
+	volume = 1
+}
+
+music = {
+	name = "battle_hymn"
+	file = "USA/USA_battle_hymn.ogg"
+	volume = 1
+}
+
+### RUSSIA ###
+
+music = {
+	name = "prayer_of_the_russians"
+	file = "RUS/RUS_prayer_of_the_russians.ogg"
+	volume = 1
+}
+
+music = {
+	name = "march_of_the_siberian_riflemen"
+	file = "RUS/RUS_march_of_the_siberian_riflemen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "song_of_the_volga_boatmen"
+	file = "RUS/RUS_song_of_the_volga_boatmen.ogg"
+	volume = 1
+}

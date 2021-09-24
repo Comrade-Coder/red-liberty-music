@@ -1,0 +1,50 @@
+music_station = "united_states_radio"
+
+music = {
+	song = "which_side_are_you_on"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "solidarity_forever"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "battle_hymn"
+	chance = {
+		modifier = {
+			factor = 2
+			has_war = yes
+			TAG = USA
+		}
+	}
+}

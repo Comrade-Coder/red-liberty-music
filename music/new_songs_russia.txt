@@ -1,0 +1,13 @@
+music_station = "russia_radio"
+
+music = {
+	song = "prayer_of_the_russians"
+}
+
+music = {
+	song = "march_of_the_siberian_riflemen"
+}
+
+music = {
+	song = "song_of_the_volga_boatmen"
+}
