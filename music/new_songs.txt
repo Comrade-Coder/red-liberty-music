@@ -39,6 +39,215 @@ music = {
 }
 
 music = {
+	song = "we_shall_not_be_moved"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "hold_the_fort"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "fifty_thousand_lumberjacks"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "commonwealth_of_toil"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "bread_and_roses"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "boom_went_the_boom"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "tomorrow_is_a_highway"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "sixteen_tons"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "union_maid"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "scissor_bill"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "song_of_the_united_front"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
 	song = "battle_hymn"
 	chance = {
 		modifier = {

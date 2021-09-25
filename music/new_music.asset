@@ -16,6 +16,78 @@ music = {
 	volume = 1
 }
 
+music = {
+	name = "workingman_unite"
+	file = "USA/USA_workingman_unite.ogg"
+	volume = 1
+}
+
+music = {
+	name = "we_shall_not_be_moved"
+	file = "USA/USA_we_shall_not_be_moved.ogg"
+	volume = 1
+}
+
+music = {
+	name = "hold_the_fort"
+	file = "USA/USA_hold_the_fort.ogg"
+	volume = 1
+}
+
+music = {
+	name = "fifty_thousand_lumberjacks"
+	file = "USA/USA_fifty_thousand_lumberjacks.ogg"
+	volume = 1
+}
+
+music = {
+	name = "commonwealth_of_toil"
+	file = "USA/USA_commonwealth_of_toil.ogg"
+	volume = 1
+}
+
+music = {
+	name = "bread_and_roses"
+	file = "USA/USA_bread_and_roses.ogg"
+	volume = 1
+}
+
+music = {
+	name = "boom_went_the_boom"
+	file = "USA/USA_boom_went_the_boom.ogg"
+	volume = 1
+}
+
+music = {
+	name = "tomorrow_is_a_highway"
+	file = "USA/USA_tomorrow_is_a_highway.ogg"
+	volume = 1
+}
+
+music = {
+	name = "sixteen_tons"
+	file = "USA/USA_sixteen_tons.ogg"
+	volume = 1
+}
+
+music = {
+	name = "union_maid"
+	file = "USA/USA_union_maid.ogg"
+	volume = 1
+}
+
+music = {
+	name = "scissor_bill"
+	file = "USA/USA_scissor_bill.ogg"
+	volume = 1
+}
+
+music = {
+	name = "song_of_the_united_front"
+	file = "USA/USA_song_of_the_united_front.ogg"
+	volume = 1
+}
+
 ### RUSSIA ###
 
 music = {
