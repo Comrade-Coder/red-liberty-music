@@ -232,6 +232,12 @@ music = {
 	song = "song_of_the_united_front"
 	chance = {
 		modifier = {
+			factor = 2
+			TAG = USA
+			has_government = libertarian_socialism
+			has_war = yes
+		}
+		modifier = {
 			factor = 1
 			has_war = no
 			TAG = USA
