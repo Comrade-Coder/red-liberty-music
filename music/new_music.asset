@@ -88,22 +88,26 @@ music = {
 	volume = 1
 }
 
-### RUSSIA ###
-
 music = {
-	name = "prayer_of_the_russians"
-	file = "RUS/RUS_prayer_of_the_russians.ogg"
+	name = "crow_on_the_cradle"
+	file = "USA/USA_crow_on_the_cradle.ogg"
 	volume = 1
 }
 
 music = {
-	name = "march_of_the_siberian_riflemen"
-	file = "RUS/RUS_march_of_the_siberian_riflemen.ogg"
+	name = "step_by_step"
+	file = "USA/USA_step_by_step.ogg"
 	volume = 1
 }
 
 music = {
-	name = "song_of_the_volga_boatmen"
-	file = "RUS/RUS_song_of_the_volga_boatmen.ogg"
+	name = "study_war_no_more"
+	file = "USA/USA_study_war_no_more.ogg"
+	volume = 1
+}
+
+music = {
+	name = "thats_all"
+	file = "USA/USA_thats_all.ogg"
 	volume = 1
 }

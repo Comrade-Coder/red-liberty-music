@@ -254,6 +254,82 @@ music = {
 }
 
 music = {
+	song = "crow_on_the_cradle"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "step_by_step"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "study_war_no_more"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "thats_all"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
 	song = "battle_hymn"
 	chance = {
 		modifier = {
