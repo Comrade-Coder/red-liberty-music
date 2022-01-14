@@ -339,3 +339,14 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "tis_of_thee"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+		}
+	}
+}

@@ -111,3 +111,9 @@ music = {
 	file = "USA/USA_thats_all.ogg"
 	volume = 1
 }
+
+music = {
+	name = "tis_of_thee"
+	file = "USA/USA_tis_of_thee.ogg"
+	volume = 1
+}
