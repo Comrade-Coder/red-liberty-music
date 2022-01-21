@@ -350,3 +350,25 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "we_are_coming"
+	chance = {
+		modifier = {
+			factor = 2
+			TAG = USA
+			has_government = libertarian_socialism
+			has_war = yes
+		}
+		modifier = {
+			factor = 1
+			TAG = USA
+			has_war = yes
+		}
+		modifier = {
+			factor = 0
+			has_war = no
+			TAG = USA
+		}
+	}
+}
