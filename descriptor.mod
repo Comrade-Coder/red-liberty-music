@@ -7,4 +7,4 @@ dependencies={
 }
 name="Red Radio"
 picture="thumbnail.png"
-supported_version="1.11.*"
+supported_version="1.11.9"
