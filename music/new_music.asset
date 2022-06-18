@@ -123,3 +123,21 @@ music = {
 	file = "USA/USA_we_are_coming.ogg"
 	volume = 1
 }
+
+music = {
+	name = "preacher_and_slave"
+	file = "USA/USA_preacher_and_slave.ogg"
+	volume = 1
+}
+
+music = {
+	name = "popular_wobbly"
+	file = "USA/USA_popular_wobbly.ogg"
+	volume = 1
+}
+
+music = {
+	name = "union_scab"
+	file = "USA/USA_union_scab.ogg"
+	volume = 1
+}

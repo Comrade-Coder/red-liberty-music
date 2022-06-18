@@ -372,3 +372,60 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "preacher_and_slave"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "popular_wobbly"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
+
+music = {
+	song = "union_scab"
+	chance = {
+		modifier = {
+			factor = 1
+			has_war = no
+			TAG = USA
+			has_government = libertarian_socialism
+		}
+		modifier = {
+			factor = 0
+			TAG = USA
+			NOT = {
+				has_government = libertarian_socialism
+			}
+		}
+	}
+}
