@@ -1,4 +1,4 @@
-version="1.10.3"
+version="1"
 tags={
 	"Sound"
 }
@@ -7,4 +7,4 @@ dependencies={
 }
 name="Red Radio"
 picture="thumbnail.png"
-supported_version="1.11.9"
+supported_version="1.12.5"
