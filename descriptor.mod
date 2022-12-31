@@ -2,9 +2,10 @@ version="1"
 tags={
 	"Sound"
 }
-dependencies={ 
-	"Red Liberty" 
+dependencies={
+	"Red Liberty"
 }
 name="Red Radio"
 picture="thumbnail.png"
-supported_version="1.12.*"
+supported_version="1.12.8"
+remote_file_id="2910213786"
