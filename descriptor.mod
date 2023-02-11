@@ -7,5 +7,5 @@ dependencies={
 }
 name="Red Radio"
 picture="thumbnail.png"
-supported_version="1.12.8"
+supported_version="1.12.*"
 remote_file_id="2910213786"
