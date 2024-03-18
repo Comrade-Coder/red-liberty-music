@@ -7,13 +7,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -26,13 +26,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -45,13 +45,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -64,13 +64,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -83,13 +83,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -102,13 +102,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -121,13 +121,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -140,13 +140,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -159,13 +159,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -178,13 +178,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -197,13 +197,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -216,13 +216,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -234,20 +234,20 @@ music = {
 		modifier = {
 			factor = 2
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 			has_war = yes
 		}
 		modifier = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -260,13 +260,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -279,13 +279,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -298,13 +298,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -317,13 +317,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -357,7 +357,7 @@ music = {
 		modifier = {
 			factor = 2
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 			has_war = yes
 		}
 		modifier = {
@@ -380,13 +380,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -399,13 +399,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
@@ -418,13 +418,13 @@ music = {
 			factor = 1
 			has_war = no
 			TAG = USA
-			has_government = libertarian_socialism
+			has_government = democratic_socialism
 		}
 		modifier = {
 			factor = 0
 			TAG = USA
 			NOT = {
-				has_government = libertarian_socialism
+				has_government = democratic_socialism
 			}
 		}
 	}
