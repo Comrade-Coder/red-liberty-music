@@ -1,0 +1,25 @@
+music_station = "france_radio"
+
+music = {
+	song = "chant_des_croix_de_feu"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 2
+			TAG = FRA
+			has_government = authoritarian_democracy
+		}
+	}
+}
+
+music = {
+	song = "quand_fera_t_il_jour_camarade"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 2
+			TAG = FRA
+			has_government = democratic_socialism
+		}
+	}
+}

@@ -1,6 +1,7 @@
 ﻿l_english:
-
- united_states_radio_TITLE:0 "Red Liberty Radio"
+ 
+ ### USA ###
+ united_states_radio_TITLE:0 "Radio Red Liberty"
  which_side_are_you_on:0 "Which Side Are You On"
  solidarity_forever:0 "Solidarity Forever"
  battle_hymn:0 "Battle Hymn of the Republic"
@@ -25,4 +26,9 @@
  preacher_and_slave:0 "The Preacher and the Slave"
  popular_wobbly:0 "The Popular Wobbly"
  union_scab:0 "The Union Scab"
+ 
+ ### FRA ###
+ france_radio_TITLE:0 "Radio France"
+ chant_des_croix_de_feu:0 "Chant des Croix de Feu"
+ quand_fera_t_il_jour_camarade:0 "Quand Fera-t-il Jour, Camarade?"
  

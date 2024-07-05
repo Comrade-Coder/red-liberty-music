@@ -4,4 +4,10 @@ spriteTypes = {
 		texturefile = "gfx/stations/radio_redliberty_album_art.png"
 		noOfFrames = 2
 	}
+	
+	spriteType = {
+		name = "GFX_radio_france_album_art"
+		texturefile = "gfx/stations/radio_france_album_art.png"
+		noOfFrames = 2
+	}
 }

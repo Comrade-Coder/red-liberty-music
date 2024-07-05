@@ -1,3 +1,5 @@
+### UNITED STATES ###
+
 music = {
 	name = "which_side_are_you_on"
 	file = "USA/USA_which_side_are_you_on.ogg"
@@ -139,5 +141,19 @@ music = {
 music = {
 	name = "union_scab"
 	file = "USA/USA_union_scab.ogg"
+	volume = 1
+}
+
+### FRENCH ###
+
+music = {
+	name = "chant_des_croix_de_feu"
+	file = "FRA/FRA_chant_des_croix_de_feu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "quand_fera_t_il_jour_camarade"
+	file = "FRA/FRA_quand_fera_t_il_jour_camarade.ogg"
 	volume = 1
 }
